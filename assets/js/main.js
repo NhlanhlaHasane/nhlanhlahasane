@@ -1,9 +1,4 @@
-/**
-* Template Name: iPortfolio - v1.4.1
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 !(function($) {
   "use strict";
 
@@ -153,7 +148,7 @@
   });
 
   // Testimonials carousel (uses the Owl Carousel library)
-  $(".testimonials-carousel").owlCarousel({
+  $(".recommendations-carousel").owlCarousel({
     autoplay: true,
     dots: true,
     loop: true,
