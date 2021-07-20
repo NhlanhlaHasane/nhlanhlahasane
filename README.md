@@ -3,7 +3,7 @@
  I'm Nhlanhla. 
 
 A Software Developer, Web3 Engineer and an Open Source contributor. I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
-I am a results-oriented professional software developer with experience of application development, database development and web page content.
+Contributing to building a decentralized web 3.0 one day at a time.
 
 ### ⚡ Technologies
 
