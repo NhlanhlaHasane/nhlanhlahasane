@@ -27,7 +27,7 @@ Contributing to building a decentralized web 3.0.
 
 - 📚- I'm currently learning more about **ZKPs, Frontend performance and Ethereum Virtual Machine(EVM)**.
 
-- :writing_hand: - I often write [blogs](https://blockchainhustle.hashnode.dev/) to share my learnings with the community.
+- :writing_hand: - I often write a [blog](https://hackmd.io/@Nhlanhla) to share my learnings with the community.
 
 - :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Twitter](https://twitter.com/Nhlanhla_ILLOT).
 
