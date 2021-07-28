@@ -34,4 +34,4 @@ Contributing to building a decentralized web 3.0.
 - :computer: - Have a look at my [Portfolio](https://nhlanhlahasane.netlify.app) for more details.
 
 
- #### Please feel free to reach out on **[Twitter](https://twitter.com/Nhlanhla_ILLOT)** or **nhlanhlahasane@hotmail.com**. <br />Thank you.🤎🤍🖤
+ #### Please feel free to reach out on **[Twitter](https://twitter.com/Nhlanhla_ILLOT)** or **nhlanhlahasane@hotmail.com**. <br />Thank you
