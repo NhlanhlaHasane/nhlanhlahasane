@@ -5,6 +5,14 @@
 A Software Developer, Web3 Engineer and an Open Source contributor. I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
 Contributing to building a decentralized web 3.0.
 
+- 📚- I'm currently learning more about **ZKPs, Frontend performance and Ethereum Virtual Machine(EVM)**.
+
+- :writing_hand: - I often write a [blog](https://hackmd.io/@Nhlanhla) to share my learnings with the community.
+
+- :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Twitter](https://twitter.com/Nhlanhla_ILLOT).
+
+- :computer: - Have a look at my [Portfolio](https://nhlanhlahasane.netlify.app) for more details.
+
 ### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,13 +33,9 @@ Contributing to building a decentralized web 3.0.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-- 📚- I'm currently learning more about **ZKPs, Frontend performance and Ethereum Virtual Machine(EVM)**.
 
-- :writing_hand: - I often write a [blog](https://hackmd.io/@Nhlanhla) to share my learnings with the community.
 
-- :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Twitter](https://twitter.com/Nhlanhla_ILLOT).
 
-- :computer: - Have a look at my [Portfolio](https://nhlanhlahasane.netlify.app) for more details.
 
 
  #### Please feel free to reach out on **[Twitter](https://twitter.com/Nhlanhla_ILLOT)** or **nhlanhlahasane@hotmail.com**. <br />Thank you
