@@ -5,7 +5,7 @@
 A Software Developer, Web3 Engineer and an Open Source contributor. I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
 Contributing to building a decentralized web 3.0.
 
-- 📚- I'm currently learning more about **Zero Knowledge Proofs, Frontend performance and Ethereum Virtual Machine(EVM)**.
+- 📚- I'm currently learning more about **Zero Knowledge Proofs and Ethereum Virtual Machine(EVM)**.
 
 - :writing_hand: - I often write a [blog](https://hackmd.io/@Nhlanhla) to share my learnings with the community.
 
