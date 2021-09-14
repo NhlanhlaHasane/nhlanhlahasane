@@ -2,7 +2,7 @@
 
  I'm Nhlanhla. 
 
-A Software Developer, Web3 Engineer and an Open Source contributor. I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
+A Software Developer, Ethereum Core Developer Apprentice and an Open Source contributor. I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
 Contributing to building a decentralized web 3.0.
 
 - 📚- I'm currently learning more about **Zero Knowledge Proofs and Ethereum Virtual Machine(EVM)**.
