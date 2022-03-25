@@ -9,7 +9,7 @@ Contributing to building a decentralized web 3.0.
 
 - :writing_hand: - I often write a [blog](https://hackmd.io/@Nhlanhla) to share my learnings with the community.
 
-- :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Twitter](https://twitter.com/Nhlanhla_ILLOT).
+- :bird: - I tweet about Ethereum Development, other blockchain development, Software development and OpenSource side projects on [Twitter](https://twitter.com/ZKTriumph).
 
 - :computer: - Have a look at my [Portfolio](https://nhlanhlahasane.netlify.app) for more details.
 
